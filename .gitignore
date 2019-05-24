@@ -107,6 +107,8 @@ local.properties
 .idea/vcs.xml
 *.iml
 
+# React Native and other projects using node_modules
+/node_modules/
 
 # Other source repository archive directories (protects when importing)
 #######################################################################
